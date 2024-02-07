@@ -24,7 +24,7 @@ Check out the live demo: [Stop&Shop Demo](https://shtopandshop.onrender.com/)
 - **Redux**: State management library for managing application state efficiently.
 - **SweetAlert**: Customizable alert library used for displaying notifications and alerts.
 - **Bootstrap**: Frontend framework for building responsive and mobile-first websites.
-- **Firebase**: Backend-as-a-Service platform for hosting the application and managing user authentication.
+
 
 
 
