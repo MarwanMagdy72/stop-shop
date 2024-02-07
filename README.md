@@ -26,7 +26,9 @@ Check out the live demo: [Stop&Shop Demo](https://shtopandshop.onrender.com/)
 - **Bootstrap**: Frontend framework for building responsive and mobile-first websites.
 
 
+## Data Source
 
+Stop&Shop utilizes the [FakeStore API](https://fakestoreapi.com/) to populate its product catalog with realistic data.
 
 
 
